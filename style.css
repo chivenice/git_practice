@@ -1,4 +1,11 @@
 p {
     color: indigo;
+<<<<<<< HEAD
     background-color: salmon;
+=======
+    background: lightcoral;
+>>>>>>> 85d60a28c3d7d5a3ed8db23d97a81c6c8cf3b16e
+}
+h1{
+    color: rosybrown;
 }
